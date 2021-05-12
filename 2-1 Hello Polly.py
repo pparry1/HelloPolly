@@ -2,5 +2,3 @@
 # A program to say 'Hello Polly!'
 
 print("Hello Polly!")
-
-# End of program
