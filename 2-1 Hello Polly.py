@@ -2,3 +2,5 @@
 # A program to say 'Hello Polly!'
 
 print("Hello Polly!")
+print("Wakey Wakey Polly!")
+
